@@ -1,0 +1,46 @@
+nav{
+    border: 2px solid black;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    margin-left: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+.canva{
+    border: 2px solid white;
+    height: 200px;
+    width: 800px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    
+}
+
+.button{
+    border: 2px solid white;
+    height: 180px;
+    width: 180px;
+    margin-top: 10px;
+}
+
+#grey{
+    background-color: gray;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#white{
+    background-color: white;
+}
+
+#yellow{
+    background-color: yellow;
+}
